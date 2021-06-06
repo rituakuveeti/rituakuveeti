@@ -7,3 +7,10 @@ like when it comes to arthemetic operators they perform arthemetical operations
 when it comes to conditional operators they perform conditional operations like if , else,<,>.....
 when it comes to assignment operators they perform assignemnt operations like =, +=, -=, *= .......
 
+=+ are the special assignment operators 
+
+ex : a=5;
+a+=5;
+print(a);
+
+output will be generated as 10. # it is a special operator for operator a=a+5;
