@@ -1,0 +1,31 @@
+IN DATATYPE SOME MINUTE IMPORTANT POINTS ARE
+
+1.  To know about the type of the value we use the syntax as type();
+    ex : a=5;
+    print(type(a))
+    output is <int>
+
+2. addition of one int and one float gives the answer in float like 2+9.0 gives float number as 11.00 
+
+
+3. we can convert any datatype of any value to the required one 
+
+ex : a=5.0;
+print(int(a));      OR
+
+ex : a=int(5.0);
+print(a);
+
+output is as - 5 #which is int so in this way float is converted into int such as a=5.0 to a=5.
+
+#we can check whether the given statment is true or false in print function itself in case of boolean and comparison operators as follows
+ex : 1. physics marks=45;
+print(physics>35);
+output: true       #it is based on comparison operators 
+
+ex :2. rent=1500;
+print(rent>1000 and rent<2000)
+
+output : true   #it is based on conditional operators
+
+therefore in this way by we can check the given statement is true of false in print function itself(comparison operators and boolean or conditional operators)
