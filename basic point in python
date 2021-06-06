@@ -1,0 +1,8 @@
+IN PYTHON YOU CAN DO ANY ANY ANY OPERATIONS IN PRINT FUNCTION ITSELF
+1.print(2+3)
+2.print(4>3)
+3.print(rent>1000 and rent<2000)
+print("ritu"*5)
+print("hello"+"world")
+print(type(3))
+print(int(3.0))
