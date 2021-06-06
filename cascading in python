@@ -1,0 +1,5 @@
+cascading in python 
+ans: In python cascading which is possible with the same datatypes
+ex:print("ritu"+"you are so beautiful")
+#if you want to cascade a string and number then you have to change the datatype
+ex:print("ritu secured"+str(15)+"marks in coding")
