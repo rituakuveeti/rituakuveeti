@@ -1,4 +1,4 @@
 #DATASTUCTURES WHICH HELPS TO STORE THE DATA AND ORGANIZE THE DATA IN THE REQUIRED WAYS SO THAT IT HELPS TO ACCESS THE DATA EFFECIENTLY AND EASILY.
-ex:student[ritu, likitha, rupa, pallavi, sowji, vara]
+ex:student=["RITU","LIKITHA"]
 print(student[0]) -ritu
 print(student[1])  -likitha 
