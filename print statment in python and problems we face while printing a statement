@@ -1,0 +1,18 @@
+QUESTION:HOW CAN PYTHON UNDERSTAND THAT USER IS ASKING TO PRINT A STATMENT IN PRINT FUNCTION?
+ANSWER:BY PLACING ANY STATMENT IN INVERTED COMMAS says to the PYTHON THAT IT IS A STATMENT USER IS ASKING TO PRINT THE STATEMNENT
+IN DEPTH INVERTED COMMAS DESCRIBES THE BEGINNING AND ENDING OF A STATEMNET.....
+
+
+ex:print("ritu")
+output:ritu
+
+ex 2: print("hello,"i am ritu"")
+output:error because you are using so many commas so that it is not able to understand "WHAT IS BEGINNING AND WHAT IS ENDING"
+error correction:print('hello,"i am ritu"')
+output:hello,i am ritu
+
+ex 3:print('hello,"you're so beautiful"')
+output:error because i this case also it is not able to understand that "WHAT IS BEGINNIG AND ENDINNG OF THE STATEMENT"
+error correction:print('hello,"you\'re so beautiful"')
+output:hello, you're so beautiful
+
