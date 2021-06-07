@@ -1,0 +1,25 @@
+#DATASTUCTURES WHICH HELPS TO STORE THE DATA AND ORGANIZE THE DATA IN THE REQUIRED WAYS SO THAT IT HELPS TO ACCESS THE DATA EFFECIENTLY AND EASILY.
+ex:student=["RITU","LIKITHA"]
+print(student[0]) -ritu
+print(student[1])  -likitha #it is called lists.
+
+MUTABILITY- it is nothing but when we are able to replace an element in given no.of elements is called mutable else immutable.
+
+ex : student=["ritu","sudha","likitha","rupa"]
+student[3]="pallavi"
+print(student)
+output- ["ritu","sudha","likitha","pallavi"]   #right here the RUPA is get replaced by the pallavi sothat lists comes under mutable.
+
+ex : name="ritu"
+name[1]="e"
+print(name)         # when it comes to strings it character "I"  is not replaced by"E" so that it is immutable.
+
+ORDER-    both string and list are both comes into order when you ask for specific letter in string or element in list it pops itout.
+ ex : student=["ritu","sudha","likitha","rupa"]
+ print(student[2])
+ output- likitha
+ 
+ ex : name="ritu"
+ print(name[1])
+ outpiut- "i"       # in the both cases user get the specific letter or element 
+
